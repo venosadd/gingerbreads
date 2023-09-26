@@ -71,3 +71,7 @@ a:hover{
 .reversed{
     flex-direction: row-reverse;
 }
+
+.sostav{
+    height: 300px;
+}
